@@ -10,7 +10,7 @@ clang++ src/main.cpp -o main && ./main
 
 ### Breakdown
 
-| Column 1     | Column 2 |
+| Command      | Explanation |
 | ---          | ---      |
 | clang++      | The C++ compiler (Clang, Apple's default on macOS) |
 | src/main.cpp | Your source file to compile |
